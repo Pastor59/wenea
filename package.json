@@ -1,0 +1,11 @@
+{
+  "name": "weneaprova",
+  "version": "1.0.0",
+  "description": "Prova per a Wenea",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "Jordi Pastor",
+  "license": "ISC"
+}
