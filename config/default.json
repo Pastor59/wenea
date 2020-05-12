@@ -1,0 +1,17 @@
+{
+    "dev": {
+        "server": {
+            "dns": "http://localhost",
+            "port": 3000
+        },
+        "db": {
+            "postgre": {
+                "host": "localhost",
+                "user": "postgres",
+                "database": "postgres",
+                "password": "1234",
+                "port": 5432
+            }
+        }
+    }
+}
